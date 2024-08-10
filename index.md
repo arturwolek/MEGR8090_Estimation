@@ -9,7 +9,7 @@ Welcome to our course webpage!
 Click [here](syllabus.pdf) for the syllabus
 
 ## Lecture Notes
-Lecture 1: Introduction[[pdf]]](lectures/L1_Introduction.pdf)  
+Lecture 1: Introduction [[pdf]]](lectures/L1_Introduction.pdf)  
 Lecture 2: Linear Algebra Review [[pdf]](lectures/L2_LinearAlgebraReview.pdf)  
 Lecture 3: Continuous-Time Systems [[pdf]](lectures/L3_ContinuousSystems.pdf) 
 Lecture 4: Discrete-Time Systems  
@@ -37,9 +37,19 @@ Lecture 24: Feedforward Neural Networks
 ## Homework
 For grades and homework/project submission visit [Canvas](https://canvas.charlotte.edu/)
   
-Homework 1  
+Homework 1 
+Homework 2 
+Homework 3 
+Homework 4 
+Homework 5 
+Homework 6 
+Homework 7 
+Homework 8 
+Homework 9 
+Homework 10  
 
 ## Project
+Project Guidelines [[pdf]](project/project.pdf)
 Project Report Template [[.zip]](project/template.zip)
 
  
