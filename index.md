@@ -1,9 +1,11 @@
 ---
-title: Welcome
+title: Course Webpage
 layout: default
 ---
 
-Hello, Minima!
+Welcome to the course webpage for:
+MEGR 7090/8090 - Dynamic System Learning and Estimation
+UNC Charlotte, Fall 2024
 
 ## Syllabus
  content
