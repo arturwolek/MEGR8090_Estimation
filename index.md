@@ -1,3 +1,10 @@
+---
+title: Welcome
+layout: default
+---
+
+Hello, Minima!
+
 ## Syllabus
  content
  
