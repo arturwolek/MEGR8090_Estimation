@@ -2,7 +2,7 @@
 title: MEGR 7090/8090: Dynamic System Learning and Estimation 
 layout: default
 ---
-Instructor: Artur Wolek, Ph.D., awolek "at" charlotte . edu
+Instructor: Artur Wolek, Ph.D.
 
 Welcome to our course webpage!
 
@@ -12,7 +12,7 @@ Click [here](syllabus.pdf) for the syllabus
 ## Lecture Notes
 Lecture 1: Introduction [[pdf]](lectures/L1_Introduction.pdf)  
 Lecture 2: Linear Algebra Review [[pdf]](lectures/L2_LinearAlgebraReview.pdf)  
-Lecture 3: Continuous-Time Systems [[pdf]](lectures/L3_ContinuousSystems.pdf) 
+Lecture 3: Continuous-Time Systems [[pdf]](lectures/L3_ContinuousSystems.pdf)  
 Lecture 4: Discrete-Time Systems  
 Lecture 5: Simulating Dynamical Systems  
 Lecture 6: Observability  
