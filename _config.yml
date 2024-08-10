@@ -1,4 +1,6 @@
 name: MEGR 7090/8090 - Dynamic System Learning and Estimation
-theme: minima
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: MEGR 7090/8090 - Dynamic System Learning and Estimation
-#description: Description
+description: Description
