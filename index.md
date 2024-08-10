@@ -1,11 +1,9 @@
 ---
-title: Course Webpage
+title: MEGR 7090/8090: Dynamic System Learning and Estimation 
 layout: default
 ---
 
-Welcome to the course webpage for:
-MEGR 7090/8090 - Dynamic System Learning and Estimation
-UNC Charlotte, Fall 2024
+Welcome to our course webpage!
 
 ## Syllabus
 Click [here](syllabus.pdf) for the syllabus
