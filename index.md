@@ -2,6 +2,7 @@
 title: MEGR 7090/8090: Dynamic System Learning and Estimation 
 layout: default
 ---
+Instructor: Artur Wolek, Ph.D., awolek "at" charlotte . edu
 
 Welcome to our course webpage!
 
