@@ -13,8 +13,8 @@ Click [here](syllabus.pdf) for the syllabus
 Lecture 1: Introduction [[pdf]](lectures/L1_Introduction.pdf)  
 Lecture 2: Linear Algebra Review [[pdf]](lectures/L2_LinearAlgebraReview.pdf)  
 Lecture 3: Continuous-Time Systems [[pdf]](lectures/L3_ContinuousSystems.pdf)  
-Lecture 4: Discrete-Time Systems  
-Lecture 5: Simulating Dynamical Systems  
+Lecture 4: Discrete-Time Systems [[pdf]](lectures/L4_DiscreteSystems.pdf)  
+Lecture 5: Simulating Dynamical Systems [[pdf]](lectures/L5_Simulation.pdf)    
 Lecture 6: Observability  
 Lecture 7: Luenberg Observer  
 Lecture 8: Review of Probability Theory  
@@ -38,7 +38,7 @@ Lecture 24: Feedforward Neural Networks
 ## Homework
 For grades and homework/project submission visit [Canvas](https://canvas.charlotte.edu/)
   
-Homework 1  
+Homework 1 [[pdf]](homework/H1.pdf)  
 Homework 2  
 Homework 3  
 Homework 4  
