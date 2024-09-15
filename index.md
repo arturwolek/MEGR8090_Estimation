@@ -40,7 +40,7 @@ For grades and homework/project submission visit [Canvas](https://canvas.charlot
   
 Homework 1 [[pdf]](homework/H1.pdf) [[soln]](homework/H1soln.pdf)  
 Homework 2 [[pdf]](homework/H2.pdf)   
-Homework 3  
+Homework 3 [[pdf]](homework/H3.pdf)   
 Homework 4  
 Homework 5  
 Homework 6  
@@ -48,6 +48,8 @@ Homework 7
 Homework 8  
 Homework 9  
 Homework 10   
+Homework 11 
+Homework 12 
 
 ## Project
 Project Guidelines [[pdf]](project/project.pdf)  
