@@ -16,9 +16,9 @@ Lecture 3: Continuous-Time Systems [[pdf]](lectures/L3_ContinuousSystems.pdf)
 Lecture 4: Discrete-Time Systems [[pdf]](lectures/L4_DiscreteSystems.pdf)  
 Lecture 5: Simulating Dynamical Systems [[pdf]](lectures/L5_Simulation.pdf)    
 Lecture 6: Observability [[pdf]](lectures/L6_Observability.pdf)    
-Lecture 7: Luenberg Observer [[pdf]](lectures/L7_LuenbergObserver.pdf)      
-Lecture 8: Review of Probability Theory  
-Lecture 9: Random Vectors  
+Lecture 7: Luenberg Observer [[pdf]](lectures/L7_LuenbergObserver.pdf)  
+Lecture 8: Review of Probability Theory [[pdf]](lectures/L8_IntroProbablity.pdf)    
+Lecture 9: Random Vectors [[pdf]](lectures/L9_RandomVectors.pdf)    
 Lecture 10: Stochastic Systems  
 Lecture 11: Least-square Regression    
 Lecture 12: Stepwise Model Determination    
