@@ -19,7 +19,7 @@ Lecture 6: Observability [[pdf]](lectures/L6_Observability.pdf)
 Lecture 7: Luenberg Observer [[pdf]](lectures/L7_LuenbergObserver.pdf)  
 Lecture 8: Review of Probability Theory [[pdf]](lectures/L8_IntroProbablity.pdf)    
 Lecture 9: Random Vectors [[pdf]](lectures/L9_RandomVectors.pdf)    
-Lecture 10: Stochastic Systems  
+Lecture 10: Stochastic Systems [[pdf]](lectures/L10_StochasticSystems.pdf)      
 Lecture 11: Least-square Regression    
 Lecture 12: Stepwise Model Determination    
 Lecture 13: Transformations of Random Vectors    
