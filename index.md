@@ -39,7 +39,7 @@ Lecture 24: Feedforward Neural Networks
 For grades and homework/project submission visit [Canvas](https://canvas.charlotte.edu/)
   
 Homework 1 [[pdf]](homework/H1.pdf) [[soln]](homework/H1soln.pdf)  
-Homework 2 [[pdf]](homework/H2.pdf)   
+Homework 2 [[pdf]](homework/H2.pdf) [[soln]](homework/H2soln.pdf)  
 Homework 3 [[pdf]](homework/H3.pdf)   
 Homework 4  
 Homework 5  
@@ -48,7 +48,7 @@ Homework 7
 Homework 8  
 Homework 9  
 Homework 10   
-Homework 11 
+Homework 11  
 Homework 12 
 
 ## Project
